@@ -4,7 +4,10 @@ module.exports = {
 
   theme: {
     fontSize: {
-      nav_clamp: `clamp("3rem", "2vw", "5rem")`,
+      nav_clamp: `clamp(2rem, 8vw, 6rem)`,
+      logo_clamp: `clamp(1.3rem,2vw,3rem)`,
+      navigation_clamp: `clamp(1rem, 8vw, 1.2rem)`,
+
       rsm: "10px",
     },
     fontFamily: {
